@@ -13,6 +13,7 @@ gem 'simple_form'
 gem 'coffee-script-source', '1.8.0'
 gem 'devise'
 gem 'bcrypt', git: 'https://github.com/codahale/bcrypt-ruby.git', :require => 'bcrypt'
+gem 'paperclip'
 #Gem Additions Above
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
